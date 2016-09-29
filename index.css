@@ -1,0 +1,65 @@
+body{
+	font-family: Verdana;
+	color: #FFFFFF;
+	text-align: right;
+}
+
+div {
+	text-align: left;
+	word-spacing: 4px;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+h2 {
+	font-size: 1.3em;
+	text-align: right;
+
+}
+
+img{
+	width: 400px;
+	height: 400px;
+	position: fixed;
+	right: 400px;
+	top: 400px;
+}
+
+p{
+	font-family: cursive;
+	font-size: 18px;
+	border: solid;
+	border-radius: 15px;
+	border-color: black;
+	border-width: 5px;
+	background: white;
+	color: black;
+	position: fixed;
+	right: 290px;
+	top: 230px;
+}
+
+p2 {
+
+	border: solid;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 15px;
+	background: white;
+	color: black;
+	position: fixed;
+	right: 580px;
+	top: 390px;
+}
+
+p3{
+	border: solid;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 15px;
+	background: white;
+	color: black;
+	position: fixed;
+	right: 500px;
+	top: 350px;
+}
